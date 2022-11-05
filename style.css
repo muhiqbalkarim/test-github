@@ -1,3 +1,11 @@
 h1 {
   color: red;
 }
+
+.container {
+  width: 800px;
+  margin: auto;
+  background-color: #0faf24;
+  border-radius: 20px;
+  padding: 5px;
+}
